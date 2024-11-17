@@ -1,7 +1,2 @@
 # Lab1.1
-
-| Tables        | Are           | Cool  |
-| ------------- |-------------| -----|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+![DADF8383-8438-405D-B133-F3E2C05909EF](https://github.com/user-attachments/assets/884459cc-e7da-4a16-b9a0-10b4b4e9945f)
